@@ -4,5 +4,8 @@ letter-spacing: 2px;
 font-size: 2rem;
 color: blue;
 text-align: center;
-
+}
+.flexy {
+    display: flex;
+    flex-wrap: ;
 }
